@@ -1,0 +1,20 @@
+# core
+cloudnode
+numpy
+
+# deep learning
+torch
+transformers  # huggingface
+datasets      # huggingface
+
+# open source model infrastructure
+chromadb
+
+# open source model frontend
+gradio
+
+# webbrowsing
+browsercookie
+selenium
+beautifulsoup4
+requests
